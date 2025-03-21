@@ -8,10 +8,15 @@ This repository contains the code related to the master's thesis "Neural Network
 ## data_preprocess.ipynb 
 preprocessing functions for numerical and image data
 
-## numerical model
+## numerical_model.ipynb
 numerical-only model 
 
-## visual;model.iypbn 
+
+## boosting_model.ipynb
+numerical-only model using XGBoost
+
+
+## visual;model.ipynb 
 numerical and image data model
 	
 
